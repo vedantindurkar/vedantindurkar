@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working on developing a scalable Hotel ERP system using ASP.NET Core and C#, focused on secure and modular architecture. I am implementing JWT-based authentication, repository pattern, and RESTful APIs with Entity Framework Core and MySQL for robust data management. The system includes key modules such as attendance, payroll, leave, and finance, all integrated with clean architecture, dependency injection, and middleware. I am also optimizing performance through asynchronous programming and building a responsive frontend using React and Tailwind CSS. Additionally, I am enhancing the platform for multi-tenant SaaS deployment to support multiple hotels with isolated data and custom configurations.
 
 
